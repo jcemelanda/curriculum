@@ -31,7 +31,7 @@ STATIC_PATHS = [
 # path-specific metadata
 EXTRA_PATH_METADATA = {
     "extra/robots.txt": {"path": "robots.txt"},
-    "images/julio.jpg": {"path": "theme/julio.jpg"},
+    "images/julio.jpg": {"path": "theme/images/julio.jpg"},
 }
 THEME = os.path.join(BASEDIR, "resume")
 
@@ -50,7 +50,7 @@ LINKEDIN = "jcemelanda"
 GITHUB = "jcemelanda"
 TWITTER = "@jcemelanda"
 
-CAREER_SUMMARY = "I'm a backend developer expert in Python, specially using Django and FastAPI. I have experience in a large amount of areas. My last work was a Data Engineer position, building a pipeline ETL with PySpark"
+CAREER_SUMMARY = "I'm a backend developer expert in Python, specially using Django and FastAPI. I have experience in a large amount of areas. My current work is a Senior It Developer position, implementing data models and APIs using pandas and FastAPI"
 
 SKILLS = [
     {"title": "Python", "level": "100"},
@@ -229,4 +229,4 @@ EDUCATIONS = [
     },
 ]
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
