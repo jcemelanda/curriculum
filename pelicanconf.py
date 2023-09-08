@@ -100,6 +100,17 @@ INTERESTS = ["Gaming", "Photography", "Music", "Game Development", "Arts"]
 
 EXPERIENCES = [
     {
+        "job_title": "Senior IT Developer",
+        "time": "Nov 2021 - currently",
+        "company": "Nordea",
+        "details": [
+            "Data Engineering with Pandas",
+            "API development with FastAPI",
+            "CI/CD implementation (Bamboo and Jenkins)",
+            "Software deployment with Docker and Kubernetes"
+        ],
+    },
+    {
         "job_title": "Data Engineer",
         "time": "Aug 2020 - Aug 2021",
         "company": "Munin Data",
