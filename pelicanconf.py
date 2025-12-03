@@ -67,11 +67,14 @@ SKILLS = [
     {"title": "React", "level": "60"},
     {"title": "Django", "level": "95"},
     {"title": "FastAPI", "level": "75"},
-    {"title": "Pandas", "level": "70"},
+    {"title": "Pandas", "level": "80"},
     {"title": "PySpark", "level": "65"},
     {"title": "Docker", "level": "85"},
     {"title": "Linux", "level": "85"},
     {"title": "AWS", "level": "65"},
+    {"title": "Git", "level": "95"},
+    {"title": "PyTest", "level": "80"},
+    {"title": "MachineLearning", "level": "75"},
 ]
 
 PROJECT_INTRO = "Below are a few of the projects I have developed and I am proud of."
@@ -92,9 +95,10 @@ PROJECTS = [
 LANGUAGES = [
     {"name": "Portuguese", "description": "Native"},
     {"name": "English", "description": "Professional"},
-    {"name": "Spanish", "description": "Amateur"},
+    {"name": "Spanish", "description": "Intermediate"},
     {"name": "French", "description": "Amateur"},
     {"name": "Danish", "description": "Beginner"},
+    {"name": "Chinese", "description": "Beginner"},
 ]
 INTERESTS = ["Gaming", "Photography", "Music", "Game Development", "Arts"]
 
@@ -107,7 +111,8 @@ EXPERIENCES = [
             "Data Engineering with Pandas",
             "API development with FastAPI",
             "CI/CD implementation (Bamboo and Jenkins)",
-            "Software deployment with Docker and Kubernetes"
+            "Software deployment with Docker and Kubernetes",
+            "Machine Learning model POC to find features and patterns in large datasets"
         ],
     },
     {
