@@ -81,6 +81,11 @@ PROJECT_INTRO = "Below are a few of the projects I have developed and I am proud
 
 PROJECTS = [
     {
+        "title": "UniVo",
+        "tagline": "UniVo is a system for Augmentative and Alternative Communication (AAC), completely free, open, and open source.",
+        "link": "https://github.com/jcemelanda/UniVo"
+    },
+    {
         "title": "MathShooter",
         "tagline": "MathShooter is a simple educative arcade game intended do help children to learn and keep the basic arithmetics. Powered by Pygame",
         "link": "https://github.com/jcemelanda/MathShooter",
@@ -231,6 +236,16 @@ EDUCATIONS = [
         "degree": "Minor in Bio-inspired Computing",
         "meta": "FEDERAL UNIVERSITY OF SÃO PAULO ",
         "time": "2015",
+    },
+    {
+        "degree": "Specialization in Machine Learning",
+        "meta": "Stanford University (Coursera)",
+        "time": "2025",
+    },
+    {
+        "degree": "Specialization in Deep Learning",
+        "meta": "Deeplearning.AI (Coursera)",
+        "time": "2025",
     },
 ]
 # Uncomment following line if you want document-relative URLs when developing
